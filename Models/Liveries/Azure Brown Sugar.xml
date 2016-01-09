@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--####    GTA V Vapid Speedo  ####
+####    AUSDKUNST    ####
+-->
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">Azure Brown Sugar</name>
+            <texture>Liveries/Kerdi Azure Brown Sugar.png</texture>
+        </livery>
+    </model>
+</sim>
+</PropertyList>

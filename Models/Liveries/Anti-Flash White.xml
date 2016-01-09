@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--####    GTA V Vapid Speedo  ####
+####    AUSDKUNST    ####
+-->
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">Anti-Flash White</name>
+            <texture>Kerdi Anti-Flash White.png</texture>
+        </livery>
+    </model>
+</sim>
+</PropertyList>
