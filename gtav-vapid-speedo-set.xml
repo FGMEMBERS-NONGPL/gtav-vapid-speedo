@@ -86,6 +86,17 @@
 					<script>aircraft.livery.dialog.toggle()</script>
 				</binding>
 			</item>
+			<item>
+			<name>music</name>
+			<label>Kerdi Music System</label>
+			<binding>
+				<command>nasal</command>
+				<script>
+				 var music = gui.Dialog.new("sim/gui/dialogs/music/dialog", "Aircraft/gtav-vapid-speedo/Sounds/kerdimusic.xml");
+				 music.open();
+				</script>
+			</binding>
+		</item>
 		</menu>
 		</default>
 	</menubar>
