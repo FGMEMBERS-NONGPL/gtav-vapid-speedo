@@ -69,13 +69,6 @@
         <volume>
             <factor>300</factor>
         </volume>
-  <position>
-      <x>0.00</x>
-      <y>0.00</y>
-      <z>0.00</z>
- </position>
- <reference-dist>1</reference-dist>
- <max-dist>100.0</max-dist>
 </music>
  </fx>
 </PropertyList>
