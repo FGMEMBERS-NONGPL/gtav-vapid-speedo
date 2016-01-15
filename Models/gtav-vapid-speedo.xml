@@ -18,7 +18,10 @@
     <texture-prop>texture</texture-prop>
     <texture>Kerdi Anti-Flash White.png</texture>
   </animation>
-
+<effect>
+ <inherits-from>Effects/model-transparent</inherits-from>
+ <object-name>Windows</object-name>
+</effect>
 
 <!-- ========== Effects ========= -->
 
